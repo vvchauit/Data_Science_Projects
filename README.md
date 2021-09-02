@@ -22,3 +22,4 @@ Applied Data Science Capstone
 Receive the Data Science Professional Certificate from Coursera.
 Haga clic aquí para la versión en Español: Ciencia de Datos de IBM Professional Certificate
 
+https://www.linkedin.com/in/vanchauerpax/
